@@ -6,6 +6,7 @@
     position: relative;
     border-radius: 10px;
     overflow: hidden;
+    margin: auto;
 }
 
 .front, .back{
